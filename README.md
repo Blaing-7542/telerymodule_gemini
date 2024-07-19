@@ -1,1 +1,1 @@
-# telerymodule_gemini
+# Модуль gemini для юзербота Telery.
